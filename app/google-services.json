@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "9224904799",
+    "firebase_url": "https://startup-effect.firebaseio.com",
+    "project_id": "startup-effect",
+    "storage_bucket": "startup-effect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9224904799:android:6150990037f783d184fbea",
+        "android_client_info": {
+          "package_name": "com.geekydroid.startupeffect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9224904799-vj40es58o4uth8p2t22iam52d86753uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoIWJBgh18J-DozicpEr6lzvvRWF8CUXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9224904799-vj40es58o4uth8p2t22iam52d86753uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
